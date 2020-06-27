@@ -4,3 +4,4 @@
 *.venv/
 *pretrain/
 *bert/
+*best_model_state.bin
